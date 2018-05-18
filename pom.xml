@@ -8,13 +8,6 @@
     <name>Team33 html Library</name>
     <description>Simple html library</description>
     <dependencies>
-        <!--dependency>
-            <groupId>com.google.guava</groupId>
-            <artifactId>guava</artifactId>
-            <version>[16.0.1,16.1.0)</version>
-            <type>jar</type>
-            <scope>compile</scope>
-        </dependency-->
         <dependency>
             <groupId>junit</groupId>
             <artifactId>junit</artifactId>
